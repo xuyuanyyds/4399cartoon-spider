@@ -74,5 +74,23 @@ pip install bs4----安装bs4
 ```
 pip install selenium
 ```
+-----------
+[4.复杂操作及selenium](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/4.%E5%A4%8D%E6%9D%82%E6%93%8D%E4%BD%9C%E5%8F%8Aselenium)
+
+* 调用本地的chrome模拟人类操作
+
+* 配合xpath找到对应内容
+
+* 设置手机型号模拟操作
+
+* 引入键盘鼠标操作
+
+  ```
+  from selenium.webdriver.common.keys import Keys
+  from selenium.webdriver.common.action_chains import ActionChains
+  ```
+
+  
+
 
 
