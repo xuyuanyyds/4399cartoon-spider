@@ -42,3 +42,37 @@ pip install bs4----安装bs4
   3.获取此元素
 
 * 解析网页的源码
+-------------
+[3.xpath以及selenium使用]()
+
+* xpath
+
+  ```
+  pip install lxml
+  
+  from lxml import etree
+  ```
+
+  获取网页源码后，使用etree去转化为一个html对象
+
+  此时element对象可以使用xpath语法
+
+* xpath语法(<u>**部分**</u>)
+
+  > //a _当前html页面中所有的a标签
+  > 
+  > //a/@href—— 当前html页面中所有a标签中的href的属性内容
+  > 
+  > //a/text()——当前html页面中所有a标签中的文本内容
+  > 
+  > //img/@src ——拿到所有img标签中的src的内容
+  > 
+  > //a//img/@src ——拿到所有a标签下面的所有img标签中的src内容
+
+* selenium
+
+```
+pip install selenium
+```
+
+
