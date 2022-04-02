@@ -89,8 +89,34 @@ pip install selenium
   from selenium.webdriver.common.keys import Keys
   from selenium.webdriver.common.action_chains import ActionChains
   ```
+---------
+[5.模拟人类操作](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/5.%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%B1%BB%E6%93%8D%E4%BD%9C)
+
+* 配合xpath进行拖拽操作
+* 鼠标点击像素操作
+* 鼠标其他操作（**部分**）
+
+```
+click() ——点击鼠标左键
+click_and_hold() ——点住鼠标左键不放
+context_click() ——点击鼠标右键
+double_click() ——双击鼠标左键
+drag_and_drop_by_offset(first_tar,100,100) ——拖拽到某个坐标然后松开
+key_down("a") ——按下一个键
+key_up("a") ——抬起一个键
+move_to_element(ele) ——移动到某个元素的位置
+move_to_element_with_offset(ele,100,0) ——移动到某个元素的相对xx的位置（以找到元素的左上角作为0）
+```
+
+* 处理弹窗
+
+* js😔新建标签页
+
+* 切换标签页
 
   
+
+
 
 
 
