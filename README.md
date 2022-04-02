@@ -2,7 +2,7 @@
 --------
 
 
-[1.爬虫1](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/%E7%88%AC%E8%99%AB1)
+[1、爬虫1](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/%E7%88%AC%E8%99%AB1)
 
 * 代理使用：是一种反反爬虫的手段，利用cookie，session，user-agent，referer，header等参数
 
