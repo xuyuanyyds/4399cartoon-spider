@@ -12,7 +12,7 @@
 
 * 处理cookie直接登录的情况
 
-  > 直接带着cookie请求
+ > 直接带着cookie请求
 
 * retrying模块
 
