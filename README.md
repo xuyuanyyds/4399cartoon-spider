@@ -43,7 +43,7 @@ pip install bs4----安装bs4
 
 * 解析网页的源码
 -------------
-[3.xpath以及selenium使用]()
+[3.xpath以及selenium使用](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/3.xpath%E4%BB%A5%E5%8F%8Aselenium%E4%BD%BF%E7%94%A8)
 
 * xpath
 
