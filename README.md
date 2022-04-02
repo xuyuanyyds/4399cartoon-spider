@@ -5,6 +5,8 @@
 [1、爬虫1](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/%E7%88%AC%E8%99%AB1)
 
 * 代理使用：是一种反反爬虫的手段，利用cookie，session，user-agent，referer，header等参数
+* 使用不同的user-agent
+随机生成uers-agent来反爬虫
 
 > 处理session（用户登录维持）
 >
