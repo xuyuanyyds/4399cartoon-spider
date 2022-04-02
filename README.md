@@ -22,8 +22,7 @@
 
 > 爬虫不一定整站爬行，还可以请求接口
 -----
-[2。json数据处理及beautifulsoup](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/2.json%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%8F%8Abeautifulsoup)
-
+[2.json数据处理及beautifulsoup](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/2.json%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%8F%8Abeautifulsoup)
 
 
 ```
