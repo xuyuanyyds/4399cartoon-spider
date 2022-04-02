@@ -19,7 +19,6 @@ if __name__ == '__main__':
     main()
 
 
-使用代理
 import requests
 
 def main():
@@ -135,7 +134,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-#注意res其实就是resp了，别纠结
+
 import requests
 import json
 
