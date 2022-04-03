@@ -113,7 +113,38 @@ move_to_element_with_offset(ele,100,0) ——移动到某个元素的相对xx的
 * js😔新建标签页
 
 * 切换标签页
+----
+* [6.模拟手机操作](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/6.%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C)
 
+* 引入触控类
+
+  ```
+  from selenium.webdriver.common.touch_actions import TouchActions
+  ```
+
+* 鼠标点击操作（**部分**）
+
+> double_tap——双击
+>
+> filck_element——从某个元素开始以指定的速度移动
+>
+> long_press——长按
+>
+> move——移动指定的位置perform执行动作链里的操作
+>
+> release放开
+>
+> scroll滚动
+>
+> tap单击
+
+* [scrapy](https://github.com/xuyuanyyds/4399cartoon-spider/tree/main/test1)
+
+```
+pip3 install scrapy
+```
+
+spiders文件夹 ——爬虫的东西会放在这里面
   
 
 
